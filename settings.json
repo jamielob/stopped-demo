@@ -1,0 +1,25 @@
+{
+  "facebook": {
+    "appId": "1594557434131117",
+    "secret": "5fec8a4d02b0291ab50054dda27c762e"
+  },
+
+  "public": {
+
+    "facebook": {
+      "permissions": [
+        "public_profile", 
+        "email", 
+        "user_friends"
+      ]
+    },
+
+   
+    "mixpanel": {
+        "token":  "10514d9044bb5faa055a1ff1ad3336bd"
+    } 
+    
+
+  }
+
+}
